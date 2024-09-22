@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Metana-Project/static/css/main.e6c13ad2.css",
-    "main.js": "/Metana-Project/static/js/main.05ed79f6.js",
-    "static/js/453.3be77f59.chunk.js": "/Metana-Project/static/js/453.3be77f59.chunk.js",
-    "index.html": "/Metana-Project/index.html",
-    "main.e6c13ad2.css.map": "/Metana-Project/static/css/main.e6c13ad2.css.map",
-    "main.05ed79f6.js.map": "/Metana-Project/static/js/main.05ed79f6.js.map",
-    "453.3be77f59.chunk.js.map": "/Metana-Project/static/js/453.3be77f59.chunk.js.map"
+    "main.css": "/react-gh-pages/static/css/main.e6c13ad2.css",
+    "main.js": "/react-gh-pages/static/js/main.1b98af8e.js",
+    "static/js/453.3be77f59.chunk.js": "/react-gh-pages/static/js/453.3be77f59.chunk.js",
+    "index.html": "/react-gh-pages/index.html",
+    "main.e6c13ad2.css.map": "/react-gh-pages/static/css/main.e6c13ad2.css.map",
+    "main.1b98af8e.js.map": "/react-gh-pages/static/js/main.1b98af8e.js.map",
+    "453.3be77f59.chunk.js.map": "/react-gh-pages/static/js/453.3be77f59.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.05ed79f6.js"
+    "static/js/main.1b98af8e.js"
   ]
 }
